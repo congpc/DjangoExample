@@ -24,12 +24,12 @@ SECRET_KEY = 'n*w*=-#icg5g^+j0r04ko9i!ez%e&b+1ag2h4m8ic^o#)1fp=p'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 # Debug environment
-# DEBUG = True
-# ALLOWED_HOSTS = ['*']
+DEBUG = True
+ALLOWED_HOSTS = ['*']
 
 # Production
-DEBUG = False
-ALLOWED_HOSTS = ['*']
+# DEBUG = False
+# ALLOWED_HOSTS = ['*']
 
 
 # Application definition
